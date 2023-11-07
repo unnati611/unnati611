@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Info](https://github-readme-stats.vercel.app/api?username=unnati611&show_icons=true&count_private=true&layout=compact)](https://github.com/vandanmshah/vandanmshah)
+[![Info](https://github-readme-stats.vercel.app/api?username=unnati611&show_icons=true&count_private=true&layout=compact)](https://github.com/unnati611/unnati611)
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unnati611&langs_count=8&hide=php&count_private=true&layout=compact)](https://github.com/unnati611/unnati611)
 
